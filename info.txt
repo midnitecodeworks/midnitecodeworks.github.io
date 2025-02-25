@@ -1,0 +1,3 @@
+Typing "http-server" in the terminal should get it running locally
+You may have to do "install -g http-server" first
+I added it in the package json, but idk if it will actually automatically install it or not
